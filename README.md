@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Hemal Pandya 👋
 
-<!--
-**Hemal-pandya22/Hemal-pandya22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student  
+🚀 Interested in Web Development & Software Development  
+🌱 Currently Learning DSA, C++, JavaScript & React
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- React
+- Git & GitHub
+
+## 🚀 Projects
+
+- Web Development Projects
+- C/C++ Projects
+- SQL Database Projects
+- College Mini Projects
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- React.js
+- Advanced JavaScript
+- AI & Machine Learning
+
+## 📫 Connect With Me
+
+- GitHub: Hemal-pandya22
+
+---
+
+⭐ Thanks for visiting my profile!
