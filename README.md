@@ -28,7 +28,9 @@
 - React.js
 - Advanced JavaScript
 - AI & Machine Learning
+## 🧑‍💻 LeetCode
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hemal_22?theme=dark)
 ## 📫 Connect With Me
 
 - GitHub: Hemal-pandya22
